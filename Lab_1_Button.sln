@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_1_Button", "Lab_1_Button\Lab_1_Button.csproj", "{DC2C0168-3B9F-4983-9708-3FE0DF798016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlLibrary", "ControlLibrary\ControlLibrary.csproj", "{F1F53EE1-69CE-4819-89BE-24C196BEDC56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC2C0168-3B9F-4983-9708-3FE0DF798016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2C0168-3B9F-4983-9708-3FE0DF798016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2C0168-3B9F-4983-9708-3FE0DF798016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2C0168-3B9F-4983-9708-3FE0DF798016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F53EE1-69CE-4819-89BE-24C196BEDC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F53EE1-69CE-4819-89BE-24C196BEDC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F53EE1-69CE-4819-89BE-24C196BEDC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F53EE1-69CE-4819-89BE-24C196BEDC56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AFA2975-F65C-44D4-815E-1E6F489CF969}
+	EndGlobalSection
+EndGlobal
